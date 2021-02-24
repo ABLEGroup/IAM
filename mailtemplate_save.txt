@@ -1,0 +1,22 @@
+Sehr geehrte Damen und Herren,
+
+#SMTPNAME# hat das Unternehmen verlassen. Sämtliche Berechtigungen und Accounts wurden deaktiviert. 
+Zur Sicherstellung des Kundenkontakts werden E-mails an die folgenden Adresse(n) für sechs Moante auf Ihr Postfach weitergeleitet:
+#SMTPADRESSEN#
+
+Wenn die Weiterleitung an einen anderen Mitarbeiter erfolgen soll, teilen Sie dies bitte per Ticket dem Service Desk mit. 
+Wenn Zugriff auf das Archiv benötigt wird, bitte unter Angabe des Grundes ebenfalls ein Ticket erstellen.
+
+
+Mit freundlichen Grüßen
+
+ABLE Management Services GmbH
+Ihr
+Service und Support- Team
+Fon +49 2261 5011-112 (Mo-Do 8:00-18:00, Fr. 8:00 - 17:00)
+support@able-group.de
+
+Sitz der Gesellschaft: Gummersbach 
+Registergericht: Amtsgericht Köln 
+Handelsregisternummer: HRB 67685 
+Geschäftsführer: Frank Ferchau, Ralf Helas, Peter Schneider
